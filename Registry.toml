@@ -1,0 +1,6 @@
+name = "DummyRegistry"
+uuid = "0721e321-5e2f-415b-bd64-5f9903c55260"
+repo = "https://github.com/SamuraiAku/DummyRegistry.jl.git"
+description = "A small registry used for testing the package PkgToSoftwareBOM.jl"
+
+[packages]
