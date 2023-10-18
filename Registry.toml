@@ -4,5 +4,6 @@ repo = "https://github.com/SamuraiAku/DummyRegistry.jl.git"
 description = "A small registry used for testing the package PkgToSoftwareBOM.jl"
 
 [packages]
+a15f9a99-31c9-401d-87e4-3fe0ccb07a31 = { name = "Dummy3", path = "D/Dummy3" }
 f7bc0a32-b501-410f-a5e3-5d2b3b8c0e6f = { name = "Dummy1", path = "D/Dummy1" }
 fb23cc6c-415b-4b10-a7ae-91d1f24ce4a7 = { name = "Dummy2", path = "D/Dummy2" }
